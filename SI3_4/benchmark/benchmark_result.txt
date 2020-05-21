@@ -1,0 +1,13 @@
+Benchmark results
+*****************
+
+Settings:
+Benchmark iterations: 25
+Algorithm used: Min-Max + Alpha Beta
+Heuristic used: Middle First
+1st AI depth: 9
+2nd AI depth: 1
+
+Total elapsed time: 265.587s
+Average time per iteration: 10.623s
+Average number of moves made by a winner: 6
