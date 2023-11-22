@@ -14,7 +14,8 @@ import game.GameSettings;
 
 
 public class SettingsWindow extends JFrame {
-
+	private static final long serialVersionUID = 1234567L;
+	
 	private JLabel gameModeLabel;
 	private JLabel algorithmTypeLabel;
 	private JLabel heuristicLabel;
