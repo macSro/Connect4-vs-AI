@@ -44,13 +44,14 @@
 
 ## About The Project
 
-This project contains an implementation of a well-known game <a href="https://en.wikipedia.org/wiki/Connect_Four">Connect 4</a>. It was originally created for a laboratory class as part of _Artificial Intelligence_ course at _Wrocław University of Science and Technology_. Therefore it includes a way to perform benchmarking of different AI configurations.
+This project contains an implementation of a well-known game <a href="https://en.wikipedia.org/wiki/Connect_Four">Connect 4</a>. It was originally created for a laboratory class as part of _Artificial Intelligence_ course at _Wrocław University of Science and Technology_. Therefore it includes a way to perform benchmarking of different AI configurations. The algorithm in question is <a href="https://en.wikipedia.org/wiki/Minimax">Minmax</a> with <a href="https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning">alpha-beta pruning</a>.
 
 _For examples of use, please refer to the <a href="#usage">Usage</a> section._
 
 ### Built With
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -128,7 +129,7 @@ The application offers the following GUI:
 
 #### User vs AI
 
-This game mode is selected by default. User always starts and then AI performs its turn. In order to change the difficulty _AAI Heuristic_ and _First AI Depth_ settings should be adjusted. Keep in mind, the higher you set AI depth, the more time AI needs to perform its turn. Don't "spam click" if it seems nothing's happening :) Adjusting _Algorithm Type_ to use Alfa-beta pruning resolves in quicker "thinking" time.
+This game mode is selected by default. User always starts and then AI performs its turn. In order to change the difficulty _AAI Heuristic_ and _First AI Depth_ settings should be adjusted. Keep in mind, the higher you set AI depth, the more time AI needs to perform its turn. Don't "spam click" if it seems nothing's happening :) Adjusting _Algorithm Type_ to use Alha-beta pruning resolves in quicker "thinking" time.
 
 #### User vs User
 
