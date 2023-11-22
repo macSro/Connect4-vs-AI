@@ -69,7 +69,7 @@ To get a copy of this project running on your machine follow these steps.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/macSro/si3.git
+   git clone https://github.com/macSro/Connect4-vs-AI.git
    ```
 
 2. Open the project in Eclipse _(or other IDE, see Prerequisites)_
