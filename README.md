@@ -20,22 +20,23 @@
       </ul>
     </li>
     <li>
-        <a href="#usage">Usage</a>
-        <ul>
-            <li><a href="#instructions">Instructions</a></li>
-            <li><a href="#rules">Rules</a></li>
-            <li><a href="#controls">Controls</a></li>
-            <li><a href="#settings">Settings</a></li>
-            <li>
-                <a href="#game-modes">Game Modes</a>
-                <ul>
-                    <li><a href="#user-vs-ai">User vs AI</a></li>
-                    <li><a href="#user-vs-user">User vs User</a></li>
-                    <li><a href="#ai-vs-ai">AI vs AI</a></li>
-                </ul>
-            </li>
-            <li><a href="#benchmarking">Benchmarking</a></li>
-        </ul>
+      <a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#instructions">Instructions</a></li>
+        <li><a href="#rules">Rules</a></li>
+        <li><a href="#controls">Controls</a></li>
+        <li><a href="#settings">Settings</a></li>
+        <li>
+          <a href="#game-modes">Game Modes</a>
+          <ul>
+            <li><a href="#user-vs-ai">User vs AI</a></li>
+            <li><a href="#user-vs-user">User vs User</a></li>
+            <li><a href="#ai-vs-ai">AI vs AI</a></li>
+          </ul>
+        </li>
+        <li><a href="#benchmarking">Benchmarking</a></li>
+        <li><a href="#demo">Demo</a></li>
+      </ul>
     </li>
   </ol>
 </details>
@@ -149,5 +150,12 @@ Here's an example of what data are acquired:
   <img src="img/result.png" style="width: 60vw;" alt="Benchmark result">
 </div>
 
+### Demo
+
+#### User vs AI
+https://github.com/macSro/Connect4-vs-AI/assets/56345054/a339292d-69c3-4cff-83dd-b9d5f00fac68
+
+#### AI vs AI
+https://github.com/macSro/Connect4-vs-AI/assets/56345054/8ceaf664-5070-4e6b-a189-bf5c9c0d09b0
 
 <p align="right">(<a href="#top">back to top</a>)</p>
