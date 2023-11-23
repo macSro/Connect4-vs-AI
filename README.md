@@ -64,6 +64,7 @@ To get a copy of this project running on your machine follow these steps.
 ### Prerequisites
 
 * Java Development Kit (JDK) installed
+
 * IDE configured for development of Java applications _(I used Eclipse, other IDEs may require additional configuration steps to run the project)_
 
 ### Installation
@@ -94,10 +95,15 @@ The application offers the following GUI:
 ### Instructions
 
 * Each "1-7" button drops the disk into the selected column
+
 * "New Game" button starts the new game (resets current)
+
 * "Settings" button opens the <a href="#settings">Settings</a> pop-up
+
 * "Rules" button opens the <a href="#rules">Rules</a> pop-up
+
 * "Controls" button opens the <a href="#controls">Controls</a> pop-up
+
 * "Benchmark" button starts <a href="#benchmarking">Benchmarking</a> according to the configuration setup in Settings
 
 ### Rules
@@ -120,10 +126,15 @@ The application offers the following GUI:
 
 
 * _Game Mode_: User vs AI / User vs User / AI vs AI
+
 * _Algorithm Type_: Min-Max / Min-Max + Alpha Beta
+
 * _AI Heuristic_: Middle First / Random Equal / None
+
 * _First AI Depth_: 1-10
+
 * _Second AI Depth (AIvsAI)_: 1-10
+
 * _Benchmark Iterations_: 1-50
 
 ### Game Modes
