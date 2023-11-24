@@ -89,7 +89,7 @@ The simplest way to run the application is with the IDE's Run button or a keyboa
 The application offers the following GUI:
 
 <div align="center">
-  <img src="img/gui.png" style="width: 60vw;" alt="GUI">
+  <img src="img/gui.png" width="450" alt="GUI">
 </div>
 
 ### Instructions
@@ -109,19 +109,19 @@ The application offers the following GUI:
 ### Rules
 
 <div align="center">
-  <img src="img/rules.png" style="width: 60vw;" alt="Rules">
+  <img src="img/rules.png" width="350" alt="Rules">
 </div>
 
 ### Controls
 
 <div align="center">
-  <img src="img/controls.png" style="width: 60vw;" alt="Controls">
+  <img src="img/controls.png" width="350" alt="Controls">
 </div>
 
 ### Settings
 
 <div align="center">
-  <img src="img/settings.png" style="width: 60vw;" alt="Settings">
+  <img src="img/settings.png" width="350" alt="Settings">
 </div>
 
 
@@ -158,7 +158,7 @@ Benchmarking is basically performing multiple iterations of games between two AI
 Here's an example of what data are acquired:
 
 <div align="center">
-  <img src="img/result.png" style="width: 60vw;" alt="Benchmark result">
+  <img src="img/result.png" width="350" alt="Benchmark result">
 </div>
 
 ### Demo
